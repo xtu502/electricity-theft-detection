@@ -1,4 +1,4 @@
-Data-driven intelligent method for detection of electricity theft 
+# Data-driven intelligent method for detection of electricity theft 
 
 If you use the relevant resources, pls cite the following paper.
 
